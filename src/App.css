@@ -1,0 +1,18 @@
+* {
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+}
+
+body {
+  background-color: #f79111 !important;
+}
+
+h1 {
+}
+
+.table th {
+  background-color: #f46113 !important;
+  color: white !important;
+  text-align: center;
+  vertical-align: middle;
+}
